@@ -1,0 +1,15 @@
+{
+  "name": "product",
+  "version": "1.0.0",
+  "description": "for production web site",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "CarterTsai",
+  "license": "ISC",
+  "dependencies": {
+    "kafka-node": "^0.3.3",
+    "koa": "^1.2.0"
+  }
+}
